@@ -216,37 +216,53 @@ plt.show()
 ## Output:
 - **i)** Read and Display an Image.
 - 1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
+
   ![421425356-633e6516-9b5f-4a3f-b42b-d7c3d50ebba3](https://github.com/user-attachments/assets/4de69baf-0e0b-4817-b2ff-cae4d47243f2)
+
   2.Save image as PNG and display:
+
   ![421425937-d40fc605-d7b1-4702-9f3f-4832a6433ce4](https://github.com/user-attachments/assets/9c99458f-fdbf-495d-b14e-f97cf66c6ef7)
+
   3.Cropped image:
+
   ![421426374-cd1db63e-f392-43f1-a7db-6947c87af9f4](https://github.com/user-attachments/assets/d2bcdc71-6342-43a3-b4c8-7221b4a59f41)
+
   4.Resize and flip Horizontally:
+
   ![421426728-4d7ca337-a73e-48eb-88f5-45a0aeebe7c4](https://github.com/user-attachments/assets/62b3890a-4466-462e-b057-d5a8739ea3ee)
+
   5.Read 'Apollo-11-launch.jpg' and Display the final annotated image:
+
   ![421427129-98aedad5-8bb2-4a5a-9310-1aa45ca1b0fc](https://github.com/user-attachments/assets/de38d56c-e850-4c70-aae7-163d13f5a4a1)
 
 
-
 - **ii)** Adjust Image Brightness.
+
 - Create brighter and darker images and display:
+
+
 ![421427798-b74fce9d-55eb-431c-95a0-985fcfcf7fa8](https://github.com/user-attachments/assets/72c4444c-d779-420a-87f8-14ea3b58828c)
 
 - **iii)** Modify Image Contrast.
 - Modify contrast using scaling factors 1.1 and 1.2:
+
 ![421428432-f8e1213f-713b-43ea-b0c5-c746741c1c79](https://github.com/user-attachments/assets/9d57b320-046f-474e-8e7b-7df5913e4745)
 
 - **iv)** Generate Third Image Using Bitwise Operations.
 1.Split 'Boy.jpg' into B, G, R components and display:
+
 ![421428891-490c7c2c-fa28-41eb-b7a8-a2fbe1523f1e](https://github.com/user-attachments/assets/0f545491-2c34-4477-9d98-fb4c95e7b5d2)
 
 2.Merge the R, G, B channels and display:
+
 ![421429251-a910516d-8b2e-4445-8a1f-3baeb03499f7](https://github.com/user-attachments/assets/51b2fb0e-015f-4386-a3c6-b75dc810a953)
 
 3.Split the image into H, S, V components and display:
+
 ![421429636-a29979a3-2e0e-4b5d-8ca4-3171183a2303](https://github.com/user-attachments/assets/125ce653-89c1-487b-8b08-e26a99065e6d)
 
 4.Merge the H, S, V channels and display:
+
 ![421430006-ac0b394b-e5af-428e-aa8a-de2743ad1a94](https://github.com/user-attachments/assets/96a88cb0-ab1b-47d5-8607-3c0d2dbced3d)
 
 
